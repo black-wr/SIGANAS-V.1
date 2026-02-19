@@ -1,2 +1,0 @@
-# SIGANAS-V.1
-Web
